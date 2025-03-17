@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a fanta game<br>🌱 I’m currently learning html5 and css3<br>⚡ I would like to learn kotlin
+🔭 I’m currently working on a fanta game<br>🌱 I’m currently expanding my knowledge about JS<br>⚡ I would like to learn kotlin
 
 <!--# ✨️ About JdiemGames
 🔭 -->
@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JG-Jdiem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JG-Jdiem&theme=dark&hide_border=false)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Jdiem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Jdiem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JdiemGames&icon=5&color=1)](https://visitcount.itsvg.in)
