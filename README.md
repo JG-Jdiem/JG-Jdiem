@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on a fanta game<br>🌱 I’m currently learning C++<br>
-⚡ I would like to learn kotlin
+🔭 I’m currently working on a fanta game<br>🌱 I’m currently learning Kotlin<br>
+<!--⚡ I would like to learn kotlin-->
 
 <!--# ✨️ About JdiemGames
 🔭 -->
